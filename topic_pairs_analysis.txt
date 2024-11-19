@@ -1,0 +1,103 @@
+Topic Pair Analysis Report
+=========================
+
+
+Results File: result_bi_ft_1.tsv
+================================
+
+Good Performing Topic:
+  ID: 868186
+  Text: How to kill all tmux sessions (or at least multiple sessions) from the CLI? - <p>How to kill all tmux sessions (or at least multiple sessions) from the (Ubuntu) CLI?</p><p>When I do <code>ps aux | gre...
+  Precision@5: 0.80
+  Retrieved docs: 1380273, 868187, 868194, 1014428, 1406321
+  Relevant docs: 868194, 868187, 1014428, 1397797, 1297742, 1380273
+
+Poor Performing Topic:
+  ID: 3
+  Text: How can I set the Software Center to install software for non-root users? - <p>How can I set the Software Center to allow non-root users to install stuff from the Ubuntu repos without having to type i...
+  Precision@5: 0.00
+  Retrieved docs: 568264, 32681, 1074841, 58039, 140845
+  Relevant docs: 258691, 258, 78806, 52
+
+--------------------------------------------------
+
+
+Results File: result_ce_ft_1.tsv
+================================
+
+Good Performing Topic:
+  ID: 521142
+  Text: Why is this rsync + ssh cron job giving me 'Permission denied (publickey)' errors? - <p>I make frequent backups to a local drive which I want to sync daily to a remote server.</p><p>The target server ...
+  Precision@5: 0.80
+  Retrieved docs: 1152930, 524450, 1134886, 1400448, 701144
+  Relevant docs: 1152930, 524450, 1400448, 1134886
+
+Poor Performing Topic:
+  ID: 3
+  Text: How can I set the Software Center to install software for non-root users? - <p>How can I set the Software Center to allow non-root users to install stuff from the Ubuntu repos without having to type i...
+  Precision@5: 0.00
+  Retrieved docs: 44330, 568264, 48307, 3965, 140845
+  Relevant docs: 258691, 258, 78806, 52
+
+--------------------------------------------------
+
+
+Results File: result_ce_1.tsv
+=============================
+
+Good Performing Topic:
+  ID: 95785
+  Text: What is Vanilla Ubuntu? - <p>I sometimes see the expression of Vanilla Ubuntu but I cannot find what it means.</p><p>What kind of version of Ubuntu is Vanilla Ubuntu?</p>...
+  Precision@5: 1.00
+  Retrieved docs: 95797, 95792, 95810, 95809, 95793
+  Relevant docs: 95793, 95810, 95809, 95797, 95792
+
+Poor Performing Topic:
+  ID: 3
+  Text: How can I set the Software Center to install software for non-root users? - <p>How can I set the Software Center to allow non-root users to install stuff from the Ubuntu repos without having to type i...
+  Precision@5: 0.00
+  Retrieved docs: 304555, 492677, 1251186, 48422, 346154
+  Relevant docs: 258691, 258, 78806, 52
+
+--------------------------------------------------
+
+
+Results File: result_bi_1.tsv
+=============================
+
+Good Performing Topic:
+  ID: 360161
+  Text: What advantages does Ubuntu have over Windows as an environment for programming? - <p>Why is writing a program in text files or via the terminal a better option (as I read) than using IDE(s) like Visu...
+  Precision@5: 1.00
+  Retrieved docs: 360246, 360917, 360170, 360169, 360600
+  Relevant docs: 360573, 360166, 360229, 360247, 360246, 360170, 360917, 360310, 360600, 360169, 360286
+
+Poor Performing Topic:
+  ID: 6
+  Text: How to graphically interface with a headless server? - <p>I have a ubuntu development server at work. It is an old rack server that is located somewhere in the company's dungeon, where nobody ever goe...
+  Precision@5: 0.00
+  Retrieved docs: 157027, 1143548, 239249, 351816, 469478
+  Relevant docs: 12, 48, 9099, 10, 91, 943059, 22, 586, 1292
+
+--------------------------------------------------
+
+
+Results File: result_advanced_bm25_1.tsv
+========================================
+
+Good Performing Topic:
+  ID: 146179
+  Text: Ubuntu Philosophy Question - <p>I was just switching from Windows to Ubuntu and I started <a href="https://help.ubuntu.com/community/SwitchingToUbuntu/FromWindows/Philosophy" rel="nofollow">to read th...
+  Precision@5: 1.00
+  Retrieved docs: 146189, 146190, 146268, 147044, 146272
+  Relevant docs: 146272, 146489, 146189, 146268, 147044, 146190
+
+Poor Performing Topic:
+  ID: 196614
+  Text: How do I edit applications panel menu in Lubuntu? - <p>Main menu (<code>alacarte</code>) cannot record changes as it should. Some time it does, but randomly and rarely.</p><p>Is this a bug?</p><p>This...
+  Precision@5: 0.00
+  Retrieved docs: 1186789, 226222, 498177, 1031729, 485411
+  Relevant docs: 199206, 1291652, 205908, 651061, 205229, 278297
+
+--------------------------------------------------
+
